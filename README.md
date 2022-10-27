@@ -2,23 +2,26 @@
 
 Powerful server management discord bot.
 
-## Table of Contents
-    -[Features](#features)
-    -[Commands](#commands)
+- [Cybel](#cybel)
+  - [Documentation](#documentation)
+  - [Features](#features)
+  - [Changelog](#changelog)
+  - [License](#license)
+  - [Contributing](#contributing)
+  - [Maintainers](#maintainers)
+  - [Contributors](#contributors)
 
+## Documentation
+
+Check out the [documentation](#) for more information about installation and usage.
 
 ## Features
 
 - [x] Moderation
 
-
 ## Changelog
 
 check [CHANGELOG.md](/CHANGELOG.md) for more details.
-
-## Commands
-
-- [x] `!ban` - Bans a user from the server.
 
 
 ## License
